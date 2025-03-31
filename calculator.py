@@ -24,4 +24,4 @@ elif operator == "/" :
     print(f"the result is {answer}")
 
 else:
-    print("incorrect operator")
+    print("incorrect operator.Kindly type the right operator🤩")
